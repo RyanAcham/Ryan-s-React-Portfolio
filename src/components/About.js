@@ -15,7 +15,9 @@ function About() {
 			</div>
 			<div>
 				<p>
-					Insert Descriptor Here!!
+					Hi there! I'm Ryan Acham and I am a Full-Stack Developer. I am an alumni of UofT's Coding Bootcamp, and with 
+					my graduation I have learned how to code in JS, CSS, HTML, as well as Node and Express.js, React, and Tailwind.
+					I am quick and eager to learn, and I am looking forward to starting my career as a Full-Stack developer!!
 				</p>
 			</div>
 		</section>
