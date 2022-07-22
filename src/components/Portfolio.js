@@ -9,11 +9,11 @@ function Portfolio() {
 				'A simple text editor that meets the Progressive Web Application, using JavaScript, HTML, and CSS.',
 			image: '../assets/PWA.png',
 			technologies: [
-				Github,
-				Heroku,
-				Javascript,
-				Html,
-				CSS
+				'Github',
+				'Heroku',
+				'Javascript',
+				'Html',
+				'CSS'
 			],
 			github: 'https://github.com/RyanAcham/Text-Editor-Progressive-Web-Application',
 			deployed: 'https://text-editor-progressive-web-ap.herokuapp.com/',
@@ -24,12 +24,12 @@ function Portfolio() {
 				'A basic note taker app that takes your notes and stores them to exemplify my proficiency in Express.js, and by extension, Node.js.',
 			image: '../assets/notes.png',
 			technologies: [
-				Github,
-				Heroku,
-				Javascript,
-				Html,
-				CSS,
-				Express.js,
+				'Github',
+				'Heroku',
+				'Javascript',
+				'Html',
+				'CSS',
+				'Express.js',
 
 			],
 			github: 'https://github.com/RyanAcham/Ryan-s-Epic-Note-Taker/',
@@ -41,27 +41,27 @@ function Portfolio() {
 				'A project I worked on with three other students that showcases our knowledge on APIs and how to utilise them. Additionally, I was the lead CSS developer in this project, and learned how to use Tailwind proficiently.',
 			image: '../assets/starwar.png',
 			technologies: [
-				Github,
-				Github Pages,
-				Javascript,
-				Html,
-				CSS,
-				Tailwind,
-				APIs
+				'Github',
+				'Github Pages',
+				'Javascript',
+				'Html',
+				'CSS',
+				'Tailwind',
+				'APIs'
 			],
 			github: 'https://github.com/SuedePritch/crispy-spork.git',
 			deployed: 'https://suedepritch.github.io/crispy-spork/',
-		}
+		},
 		{
 			name: 'Professional README Generator',
 			description:
-				'A program that I made in JavaScript that utilizes Node.js to automatically create a professional README once the user inputs their information.'
+				'A program that I made in JavaScript that utilizes Node.js to automatically create a professional README once the user inputs their information.',
 			image: '../assets/README.png',
 			technologies: [
-				Github,
-				Javascript,
-				Html,
-				Node.js
+				'Github',
+				'Javascript',
+				'Html',
+				'Node.js'
 			],
 			github: 'https://github.com/RyanAcham/Professional-README-Generator',
 			deployed: 'https://github.com/RyanAcham/Professional-README-Generator',
