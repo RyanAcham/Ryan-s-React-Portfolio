@@ -10,7 +10,7 @@ function Footer() {
 					rel="noopener noreferrer"
 				>
 					<img
-						src={require("../../assets/logos/github-logo.png")}
+						src={require("../assets/github-logo.png")}
 						alt="Github"
 						className="logo"
 					></img>
@@ -23,7 +23,7 @@ function Footer() {
 					rel="noopener noreferrer"
 				>
 					<img
-						src={require("../../assets/logos/linkedin-logo.png")}
+						src={require("../assets/linkedin-logo.png")}
 						alt="LinkedIn"
 						className="logo"
 					></img>
