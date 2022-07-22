@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/Ryan-s-React-Portfolio/static/css/main.9d18203c.css",
-    "main.js": "/Ryan-s-React-Portfolio/static/js/main.f9b49a31.js",
+    "main.css": "/Ryan-s-React-Portfolio/static/css/main.e4d889b8.css",
+    "main.js": "/Ryan-s-React-Portfolio/static/js/main.8cc6f6e8.js",
     "static/js/787.4e6d705c.chunk.js": "/Ryan-s-React-Portfolio/static/js/787.4e6d705c.chunk.js",
     "static/media/starwar.png": "/Ryan-s-React-Portfolio/static/media/starwar.0dad2feca5c909af5756.png",
     "static/media/resume.pdf": "/Ryan-s-React-Portfolio/static/media/resume.252122c8354d3ba7a48a.pdf",
@@ -10,12 +10,12 @@
     "static/media/README.png": "/Ryan-s-React-Portfolio/static/media/README.9df9f6f4a1ccaae56dc5.png",
     "static/media/notes.png": "/Ryan-s-React-Portfolio/static/media/notes.6e2f7279f57fcd20af4a.png",
     "index.html": "/Ryan-s-React-Portfolio/index.html",
-    "main.9d18203c.css.map": "/Ryan-s-React-Portfolio/static/css/main.9d18203c.css.map",
-    "main.f9b49a31.js.map": "/Ryan-s-React-Portfolio/static/js/main.f9b49a31.js.map",
+    "main.e4d889b8.css.map": "/Ryan-s-React-Portfolio/static/css/main.e4d889b8.css.map",
+    "main.8cc6f6e8.js.map": "/Ryan-s-React-Portfolio/static/js/main.8cc6f6e8.js.map",
     "787.4e6d705c.chunk.js.map": "/Ryan-s-React-Portfolio/static/js/787.4e6d705c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.9d18203c.css",
-    "static/js/main.f9b49a31.js"
+    "static/css/main.e4d889b8.css",
+    "static/js/main.8cc6f6e8.js"
   ]
 }
