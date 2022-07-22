@@ -38,7 +38,7 @@ function Portfolio() {
 		{
 			name: 'Star Wars Database',
 			description:
-				'A project I worked on with three other students that showcases our knowledge on APIs and how to utilise them. Additionally, I was the lead CSS developer in this project, and learned how to use Tailwind proficiently.'
+				'A project I worked on with three other students that showcases our knowledge on APIs and how to utilise them. Additionally, I was the lead CSS developer in this project, and learned how to use Tailwind proficiently.',
 			image: '../assets/starwar.png',
 			technologies: [
 				Github,
