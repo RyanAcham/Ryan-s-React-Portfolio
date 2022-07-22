@@ -7,7 +7,7 @@ function Portfolio() {
 			name: 'Text Editor Progressive Web Application',
 			description:
 				'A simple text editor that meets the Progressive Web Application, using JavaScript, HTML, and CSS.',
-			image: '../assets/PWA.png',
+			image: 'PWA.png',
 			technologies: [
 				'Github',
 				'Heroku',
@@ -22,7 +22,7 @@ function Portfolio() {
 			name: 'Express.js Note Taker',
 			description:
 				'A basic note taker app that takes your notes and stores them to exemplify my proficiency in Express.js, and by extension, Node.js.',
-			image: '../assets/notes.png',
+			image: 'notes.png',
 			technologies: [
 				'Github',
 				'Heroku',
@@ -39,7 +39,7 @@ function Portfolio() {
 			name: 'Star Wars Database',
 			description:
 				'A project I worked on with three other students that showcases our knowledge on APIs and how to utilise them. Additionally, I was the lead CSS developer in this project, and learned how to use Tailwind proficiently.',
-			image: '../assets/starwar.png',
+			image: 'starwar.png',
 			technologies: [
 				'Github',
 				'Github Pages',
@@ -56,7 +56,7 @@ function Portfolio() {
 			name: 'Professional README Generator',
 			description:
 				'A program that I made in JavaScript that utilizes Node.js to automatically create a professional README once the user inputs their information.',
-			image: '../assets/README.png',
+			image: 'README.png',
 			technologies: [
 				'Github',
 				'Javascript',
