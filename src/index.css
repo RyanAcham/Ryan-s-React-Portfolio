@@ -5,7 +5,7 @@ main {
 }
 
 :root {
-	--primary: #499167;
+	--primary: #18215c;
 	--secondary: #2E282A;
 	--tertiary: #f0f2a6;
 	--quaternary: #39a9db;
@@ -37,7 +37,6 @@ body {
 	letter-spacing: .1em;
 	background: var(--dark);
 	color: var(--light);
-	/* font-family: 'Poiret One', cursive; */
 	font-family: 'Courier New', Courier, monospace;
 }
 
@@ -83,7 +82,7 @@ p {
 }
 
 a {
-	color: red;
+	color: #18215c;
 	text-decoration: none;
 	font-weight: bold;
 	border-radius: 5px;
@@ -295,7 +294,6 @@ textarea {
 	height: auto;
 	max-width: 480px;
 	max-height: 640px;
-	/* padding: 50px; */
 	margin-bottom: 50px;
 }
 
